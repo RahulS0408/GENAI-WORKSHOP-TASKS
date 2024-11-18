@@ -27,7 +27,8 @@ This is an interactive Python script that uses the **T5-large model** from the H
 ## **Install the required libraries:**
 
 pip install transformers torch
-
+---
+##**Steps:**##
 **Initialization:**
 Loads the T5-large model and tokenizer from the Hugging Face Transformers library.
 
